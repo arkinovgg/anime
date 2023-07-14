@@ -1,12 +1,12 @@
 <html>
     <head>
-        <title>Company WATAFAK!</title>
+        <title>Макетный БОГ!</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
             <p class="CompanyWatafakPng"><img src="CompanyWATAFAK.png" class="CompanyWatafakPng"></p>
-            <h1>Company WATAFAK</h1>
+            <h1>Компания - Макетный БОГ!</h1>
         </header>
         <main>
             <p class="pWhat"><img src="what.jpg" class="what"></p>
@@ -20,7 +20,7 @@
             <div>
                 <div class="divAbout">
                 <h2 id="about_us" class="About">О нас</h2>
-                <p class="AboutUsText">Company Watafak - Компания, в которой<br>нужно создавать макеты сайтов для наших<br> веб-разработчиков. Желательное звание -<br> Middle. График - 9:00 - 16:00, после 16:00<br> можно работать дома, + доп. зарплата.</p>
+                <p class="AboutUsText">Макетный БОГ! - Компания, в которой<br>нужно создавать макеты сайтов для наших<br> веб-разработчиков. Желательное звание -<br> Middle. График - 9:00 - 16:00, после 16:00<br> можно работать дома, + доп. зарплата.</p>
                 </div>
                 <img src="Smile.png" class="SmilePNG">
             </div>
@@ -30,11 +30,14 @@
 Зарплата - 1200 грн за макет, макет<br> делается +- день, то есть 31200+- грн в<br> месяц. Работа в офисе, каждый день с 9:00<br> до 16:00.</p>
                 <p>Нужно уметь делать любые просьбы<br> покупателя, вставлять картинки, подбирать<br> нужный формат, подбирать логотип,<br> подбирать картинки, уметь пользоваться<br> градиентом и Layout Grid’ом</p>
             </div>
+           
+            <div class="divGarant">
             <p class="sadsmilePNG"><img src="SadSmile.png"></p>
             <h2 class="garantia">Гарантия</h2>
             <p class="garantiaTEXT">Гарантия того, что вы будете находиться в<br> приятных условиях - Зарплата за каждый<br> макет, отдых/обед в 13:00, обед бесплатный,<br>
 если хотите работать с музыкой в<br> наушниках - пожалуйста! Главное не<br> отвлекайтесь от самой работы. Если вы<br> заболели, вы можете не приходить в офис и<br> работать удалённо, но если уж совсем всё<br> плохо, то мы выделим вам деньги на<br> лечение. Вы будете работать в комфорте!</p>
-            <div>
+            </div>
+            <div class="divReg">
                 <h1 class="reg" id="register"><b>РЕГИСТРАЦИЯ</b></h1>
                 <p class="registerPNGp"><img src="register.png" class="registerPNG"></p>
                 <div class="inputs">
